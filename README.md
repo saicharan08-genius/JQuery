@@ -1,1 +1,1 @@
-# JQuery
+# JQuery Fade function
